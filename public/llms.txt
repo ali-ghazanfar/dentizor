@@ -1,0 +1,13 @@
+# Dentizor
+
+Dentizor is dental practice management software for solo and multi-dentist clinics in Pakistan.
+
+## Dentizor
+
+Dentizor is one connected product for appointments, patient records, cases, odontogram charting, phased treatment plans, prescriptions, lab orders, invoices and payments, inventory, payroll and dentist commissions, accounts, ledger and reports.
+
+- [Dental Software Modules](https://dentizor.com/modules): explore the complete Dentizor feature set.
+
+## Company and contact
+
+Dentizor serves dental practices in Pakistan. Email hello.dentizor@gmail.com or WhatsApp +92 314 7155433.
