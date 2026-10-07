@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="relative z-40 h-24 flex items-center">
       <div className="w-full px-6 md:px-[50px] flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <Link to="/" className="text-3xl sm:text-4xl font-sans font-black tracking-[-0.04em] text-brand-primary" aria-label="Dentizor home">
+          <Link to="/" className="text-3xl sm:text-5xl font-sans font-bold tracking-[-0.04em] text-brand-primary" aria-label="Dentizor home">
             <span className="italic">D</span>entizor
           </Link>
         </div>
