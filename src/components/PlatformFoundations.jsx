@@ -54,7 +54,7 @@ const PlatformFoundations = () => (
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {foundations.map((foundation) => (
-          <article key={foundation.title} className="group rounded-[18px] border border-brand-200 bg-white p-7 shadow-[0_10px_30px_rgba(32,33,36,0.05)] transition-all duration-300 hover:-translate-y-1 hover:border-brand-300 hover:shadow-[0_18px_42px_rgba(32,33,36,0.1)] md:p-8">
+          <article key={foundation.title} className="group rounded-[18px] border border-brand-200 bg-white p-7 shadow-[0_10px_30px_rgba(30,36,35,0.05)] transition-all duration-300 hover:-translate-y-1 hover:border-brand-300 hover:shadow-[0_18px_42px_rgba(30,36,35,0.1)] md:p-8">
             <h3 className="mb-6 text-[22px] font-heading leading-[1.4] tracking-[-0.015em] text-brand-charcoal">{foundation.title}</h3>
             <ul className="space-y-3.5">
               {foundation.points.map((point) => (

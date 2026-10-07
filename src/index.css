@@ -4,22 +4,22 @@
   --font-sans: "Inter", sans-serif;
   --font-heading: "Inter", sans-serif;
 
-  --color-brand-50: #eef8ff;
-  --color-brand-100: #d9efff;
-  --color-brand-200: #bce3ff;
-  --color-brand-300: #8ed3ff;
-  --color-brand-400: #57b8f7;
-  --color-brand-500: #3199e8;
-  --color-brand-600: #1679c4;
-  --color-brand-700: #1263a2;
-  --color-brand-800: #145486;
-  --color-brand-900: #164771;
-  --color-brand-950: #0f2d4a;
-  --color-brand-primary: #1679c4;
-  --color-brand-deep: #1263a2;
-  --color-brand-soft: #d9efff;
-  --color-brand-charcoal: #202124;
-  --color-black: #202124;
+  --color-brand-50: #f7f2fa;
+  --color-brand-100: #ede3f4;
+  --color-brand-200: #dcc8ea;
+  --color-brand-300: #c4a3db;
+  --color-brand-400: #a77bc6;
+  --color-brand-500: #8a58ad;
+  --color-brand-600: #6d3f8f;
+  --color-brand-700: #5a3277;
+  --color-brand-800: #4a2a62;
+  --color-brand-900: #3d2450;
+  --color-brand-950: #241433;
+  --color-brand-primary: #6d3f8f;
+  --color-brand-deep: #1e2423;
+  --color-brand-soft: #ede3f4;
+  --color-brand-charcoal: #1e2423;
+  --color-black: #1e2423;
   
 }
 

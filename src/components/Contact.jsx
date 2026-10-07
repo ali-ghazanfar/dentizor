@@ -46,7 +46,7 @@ const Contact = () => {
           </p>
 
           <div className="mt-9 space-y-3">
-            <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=hello.dentizor@gmail.com" target="_blank" rel="noreferrer" className="flex items-center gap-3 rounded-[14px] border border-brand-200 bg-white p-3.5 text-black/70 shadow-[0_8px_22px_rgba(32,33,36,0.04)] transition-all hover:border-brand-300 hover:text-brand-primary">
+            <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=hello.dentizor@gmail.com" target="_blank" rel="noreferrer" className="flex items-center gap-3 rounded-[14px] border border-brand-200 bg-white p-3.5 text-black/70 shadow-[0_8px_22px_rgba(30,36,35,0.04)] transition-all hover:border-brand-300 hover:text-brand-primary">
               <span className="flex h-10 w-10 items-center justify-center rounded-full bg-brand-100 text-brand-primary">
                 <Mail className="h-4 w-4" aria-hidden="true" />
               </span>
@@ -55,7 +55,7 @@ const Contact = () => {
                 <span className="block mt-0.5 font-semibold">hello.dentizor@gmail.com</span>
               </span>
             </a>
-            <a href={getWhatsAppUrl()} target="_blank" rel="noreferrer" className="flex items-center gap-3 rounded-[14px] border border-brand-200 bg-white p-3.5 text-black/70 shadow-[0_8px_22px_rgba(32,33,36,0.04)] transition-all hover:border-brand-300 hover:text-brand-primary">
+            <a href={getWhatsAppUrl()} target="_blank" rel="noreferrer" className="flex items-center gap-3 rounded-[14px] border border-brand-200 bg-white p-3.5 text-black/70 shadow-[0_8px_22px_rgba(30,36,35,0.04)] transition-all hover:border-brand-300 hover:text-brand-primary">
               <span className="flex h-10 w-10 items-center justify-center rounded-full bg-brand-100 text-brand-primary">
                 <MessageCircle className="h-4 w-4" aria-hidden="true" />
               </span>
@@ -67,7 +67,7 @@ const Contact = () => {
           </div>
         </div>
 
-        <form onSubmit={handleSubmit} className="rounded-[20px] border border-brand-200 bg-white p-7 shadow-[0_18px_48px_rgba(32,33,36,0.1)] md:p-9">
+        <form onSubmit={handleSubmit} className="rounded-[20px] border border-brand-200 bg-white p-7 shadow-[0_18px_48px_rgba(30,36,35,0.1)] md:p-9">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
             <label className="block">
               <span className="text-sm font-semibold text-black">Your name<span className="text-rose-600" aria-hidden="true"> *</span><span className="sr-only"> (required)</span></span>

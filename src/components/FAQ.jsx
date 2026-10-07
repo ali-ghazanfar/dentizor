@@ -19,7 +19,7 @@ const FAQ = () => {
           {faqs.map((faq, index) => (
             <div
               key={faq.question} 
-              className={`overflow-hidden rounded-[18px] border transition-all duration-300 ${openIndex === index ? 'border-brand-deep bg-brand-deep text-white shadow-[0_16px_36px_rgba(13,75,163,0.18)]' : 'border-brand-200 bg-white shadow-[0_8px_24px_rgba(32,33,36,0.06)]'}`}
+              className={`overflow-hidden rounded-[18px] border transition-all duration-300 ${openIndex === index ? 'border-brand-deep bg-brand-deep text-white shadow-[0_16px_36px_rgba(109,63,143,0.22)]' : 'border-brand-200 bg-white shadow-[0_8px_24px_rgba(30,36,35,0.06)]'}`}
             >
               <button 
                 onClick={() => setOpenIndex(openIndex === index ? null : index)}

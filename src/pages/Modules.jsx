@@ -52,7 +52,7 @@ const Modules = () => {
           ))}
         </div>
 
-        <div className="mt-12 flex flex-col items-center justify-between gap-6 rounded-[20px] border border-brand-200 bg-gradient-to-r from-brand-50 to-white p-8 text-center shadow-[0_14px_38px_rgba(32,33,36,0.08)] md:flex-row md:p-10 md:text-left">
+        <div className="mt-12 flex flex-col items-center justify-between gap-6 rounded-[20px] border border-brand-200 bg-gradient-to-r from-brand-50 to-white p-8 text-center shadow-[0_14px_38px_rgba(30,36,35,0.08)] md:flex-row md:p-10 md:text-left">
           <div>
             <h2 className="text-2xl md:text-3xl font-heading text-black mb-2">Want these modules for your clinic?</h2>
             <p className="text-black/65 leading-relaxed">Tell us how your dental practice works, and we’ll help you plan the right Dentizor setup.</p>

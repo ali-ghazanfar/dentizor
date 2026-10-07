@@ -31,7 +31,7 @@ const ChoosingRightSize = () => (
         </h2>
       </div>
 
-      <div className="overflow-x-auto rounded-[18px] border border-brand-200 bg-white shadow-[0_16px_44px_rgba(32,33,36,0.08)]">
+      <div className="overflow-x-auto rounded-[18px] border border-brand-200 bg-white shadow-[0_16px_44px_rgba(30,36,35,0.08)]">
         <table className="w-full min-w-[780px] border-collapse text-left">
           <thead className="bg-brand-charcoal text-white">
             <tr>
